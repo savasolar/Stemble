@@ -16,10 +16,10 @@ class _TracksPageState extends State<TracksPage> {
 
   int compositionID = 0;
 
-  String customFilePath01 = 'booger';
-  String customFilePath02 = 'fart';
-  String customFilePath03 = 'cum';
-  String customFilePath04 = 'shit';
+  String customFilePath01 = '';
+  String customFilePath02 = '';
+  String customFilePath03 = '';
+  String customFilePath04 = '';
 
   @override
   void initState() {
