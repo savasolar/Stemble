@@ -127,7 +127,7 @@ class _PlayerPageState extends State<PlayerPage> {
         _isPlaying = playerState.playing;
       });
     });
-    print("App has fucking started");
+    print("App has started");
   }
 
   //possibly combine this with setStems()
